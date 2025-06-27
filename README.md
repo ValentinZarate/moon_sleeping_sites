@@ -42,7 +42,7 @@ It includes all figures, code, and ecological interpretations.
 - [`geosphere`](https://cran.r-project.org/web/packages/geosphere/) – spatial distance and geometry  
 - [`viridis`](https://cran.r-project.org/web/packages/viridis/) – color scales for accessibility  
 
-## 📁 Structure
+## Structure
 moon_sleeping_sites/
 │
 ├── data/ # Raw data (not committed)
