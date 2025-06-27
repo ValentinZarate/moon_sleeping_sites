@@ -30,7 +30,8 @@ This repository explores how lunar illumination and other environmental variable
 
 ## HTML Report
 
-The full HTML report is available **[Here](https://valentinzarate.github.io/moon_sleeping_sites/moon_sleeping.html)**
+The full report is available **[here](https://valentinzarate.github.io/moon_sleeping_sites/moon_sleeping.html)**.
+
 
 It includes all figures, code, and ecological interpretations.
 
