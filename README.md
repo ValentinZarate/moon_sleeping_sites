@@ -28,10 +28,16 @@ This repository explores how lunar illumination and other environmental variable
 
 ---
 
-## HTML Report
+## HTML Reports
 
+### Moon and Canopy height covariates
 The full report is available **[here](https://valentinzarate.github.io/moon_sleeping_sites/moon_sleeping.html)**.
 
+### Buffer sizes and numbers of pseudo-absences
+The full report is available **[here](https://valentinzarate.github.io/moon_sleeping_sites/moon_buffer_alternatives.html)**.
+
+### Resource Selection Functions
+The full analysis and details are available **[here](https://valentinzarate.github.io/moon_sleeping_sites/rsf_moon.html)**.
 
 It includes all figures, code, and ecological interpretations.
 
