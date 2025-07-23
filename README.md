@@ -8,10 +8,10 @@ This repository explores how lunar illumination and other environmental variable
 
 ## Overview
 
-- **Study species**: _Sapajus nigritus_ (Black Capuchin Monkey)
+- **Study species**: Black Capuchin Monkey (_Sapajus nigritus_)
 - **Location**: Iguazú National Park, Argentina
-- **Key question**: Do Black Capuchins choose higher sleeping sites under darker lunar conditions?
-- **Approach**: Combine spatial data (GPS), moonlight metrics (via `suncalc`), canopy height models, and precipitation data to evaluate behavioral patterns.
+- **Key question**: Does moonlight modulate sleeping site selection in a diurnal primate?
+- **Approach**: Combine spatial data (GPS), moonlight metrics (via `suncalc`), canopy height models (LiDAR; [Lang et al. 2022](https://www.nature.com/articles/s41559-023-02206-6)), and precipitation data to evaluate behavioral patterns.
 
 ---
 
