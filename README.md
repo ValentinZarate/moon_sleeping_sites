@@ -2,7 +2,7 @@
 
 **Relation between sleeping site height of Black Capuchins (_Sapajus nigritus_) and Moon illumination**
 
-This repository explores how lunar illumination and other environmental variables (e.g. precipitation, canopy structure) influence sleeping site selection in wild Black Capuchin monkeys. The analysis combines GPS data, lunar ephemerides, and remote sensing to investigate how primates may adaptively respond to night-time light conditions.
+This repository explores how lunar illumination and other environmental variables (e.g. canopy structure) influence sleeping site selection in wild Black Capuchin monkeys. The analysis combines GPS data, lunar ephemerides, and remote sensing to investigate how primates may adaptively respond to night-time light conditions.
 
 ---
 
