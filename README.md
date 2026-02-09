@@ -37,6 +37,7 @@ It includes all figures, code, and ecological interpretations.
 - [`viridis`](https://cran.r-project.org/web/packages/viridis/) – color scales for accessibility  
 
 ## Structure
+```
 moon_sleeping_sites/
 │
 ├── data/ # Raw data (not committed)
@@ -46,3 +47,4 @@ moon_sleeping_sites/
 ├── moon_sleeping.html # Rendered HTML report (published)
 ├── moon_sleeping_buffers.html # Rendered HTML report (published)
 ├── rsf.html # Rendered HTML report (published)
+```
